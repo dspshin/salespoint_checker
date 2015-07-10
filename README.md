@@ -1,0 +1,1 @@
+# salespoint_checker
